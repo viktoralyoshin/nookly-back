@@ -1,3 +1,3 @@
-module github.com/viktoralesh/nookly
+module github.com/viktoralyoshin/nookly
 
 go 1.24.1
